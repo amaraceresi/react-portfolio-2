@@ -14,7 +14,7 @@ export const projects = [
   },
   {
     title: "Work Day Scheduler",
-    description: "Calendar that can be used to track your events.",
+    description: "A calendar app for scheduling your work day.",
     image: "https://assets.website-files.com/634681057b887c6f4830fae2/6367dd49fa8aebe5a6fd7d8b_6276923eb780251b611823e2_Planner%2520Apps.png",
     url: "https://amaraceresi.github.io/work-day-scheduler/",
   },
