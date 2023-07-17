@@ -1,19 +1,18 @@
 import "./AboutMe.css";
-
-let imgUrl = "https://picsum.photos/800"
+import headshot from '../../assets/headshot.png'; 
 
 function AboutMe() {
   return (
     <div id="aboutme" className="aboutme-container">
-      <img src={imgUrl} alt="aboutme"/>
+      <img src={headshot} alt="aboutme"/>  
       <div>
         <h1>About Me</h1>
         <p>
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Quis laboriosam placeat officiis molestiae, dolores voluptate suscipit atque fuga, consequatur alias corrupti cupiditate fugit! Necessitatibus itaque similique totam, quasi natus exercitationem facere tenetur alias voluptatibus vero corporis aspernatur sapiente odit, ab obcaecati inventore magnam, a laboriosam quas eius. At, dicta fuga.
+        Hello there! My name is Amara Ceresi, and I am currently immersed in the enriching and challenging experience of studying Full Stack Development at Vanderbilt University's Boot Camp. With a strong foundation in front-end and back-end technologies, I'm passionate about using code to create user-friendly and responsive web applications.        
         </p>
       </div>
     </div>
   )
 }
 
-export default AboutMe
+export default AboutMe;

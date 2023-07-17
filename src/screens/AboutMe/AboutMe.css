@@ -7,9 +7,9 @@
 }
 
 .aboutme-container img {
-  max-width: 50%;
-  max-height: 300px;
-  height: auto;
+  width: 300px;
+  height: 300px;
+  object-fit: cover;
   border-radius: 50%;
   box-shadow: 2px 2px 2px 1px rgba(0,0,0,0.2);
 }
