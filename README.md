@@ -1,6 +1,6 @@
 # React Portfolio
 
-![Application Screenshot](./assets/Screenshot.png)
+![Application Screenshot](./src/assets/screenshot.png)
 
 ## Description 
 
