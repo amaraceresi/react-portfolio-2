@@ -1,6 +1,6 @@
 # React Portfolio
 
-![Application Screenshot](./src/assets/Screenshot.png)
+![Application Screenshot]([./src/assets/Screenshot.png](https://github.com/amaraceresi/react-portfolio/blob/main/src/assets/Screenshot%20.png?raw=true))
 
 ## Description 
 
