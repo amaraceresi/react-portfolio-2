@@ -2,8 +2,6 @@
 
 ![Application Screenshot](./assets/Screenshot.png)
 
-[![Website amaraceresi.github.io/react-portfolio](https://img.shields.io/website-up-down-green-red/http/amaraceresi.github.io/react-portfolio.svg)](http://amaraceresi.github.io/react-portfolio)
-
 ## Description 
 
 This is a single-page React portfolio showcasing my work as a web developer. The portfolio features a responsive user interface that adapts to various screen sizes.
