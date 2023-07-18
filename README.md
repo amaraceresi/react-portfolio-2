@@ -1,5 +1,7 @@
 # React Portfolio
 
+![Application Screenshot](./assets/Screenshot.png)
+
 [![Website amaraceresi.github.io/react-portfolio](https://img.shields.io/website-up-down-green-red/http/amaraceresi.github.io/react-portfolio.svg)](http://amaraceresi.github.io/react-portfolio)
 
 ## Description 
