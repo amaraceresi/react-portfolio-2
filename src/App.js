@@ -7,8 +7,6 @@ import {
   Technologies,
 } from "./screens";
 
-// svgrepo.com
-
 function App() {
   return (
     <div>
