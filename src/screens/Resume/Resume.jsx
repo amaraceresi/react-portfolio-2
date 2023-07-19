@@ -1,7 +1,7 @@
-import "./Technologies.css";
+import "./Resume.css";
 import { techs } from "./techs";
 
-function Technologies() {
+function Resume () {
   const technologiesList = techs.map((tech, idx) => {
     return (
       <div className="tech-frames background-animation" key={idx}>
@@ -22,4 +22,4 @@ function Technologies() {
   )
 }
 
-export default Technologies
+export default Resume
