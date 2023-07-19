@@ -22,7 +22,7 @@
 // export default App;
 
 import React from 'react';
-import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
+import { HashRouter as Router, Routes, Route } from 'react-router-dom';
 
 import AboutMe from './screens/AboutMe/AboutMe';
 import Portfolio from './screens/Portfolio/Portfolio';
@@ -52,3 +52,4 @@ function App() {
 }
 
 export default App;
+
